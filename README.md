@@ -1,5 +1,5 @@
 ### Hi There ✋🏼, My Name Is IDK_FORCE
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=WELCOME+TO+MY+ABOUT+ME)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=WELCOME+TO+MY+BIO)](https://git.io/typing-svg)
 
 ![ForceScript Run Fast Main Developer](https://cdn.discordapp.com/attachments/784243374269661195/987344348360364052/banner.png)
 
