@@ -14,12 +14,12 @@
 <h3 align="left">(Unity,UnrealEngine,Blender,VisualCode,CodeWalker,OpenIV,)</h3>
 
 
-<h3 align="left">Im A Graphics Designer & Developer:</h3>
+<h3 align="left">Im A Graphics Designer & Developer</h3>
 <p align="left">
 </p>
 
 ![](https://cdn.discordapp.com/attachments/697548370100748330/987348754413789274/R.png)
-<h3 align="left">I’m currently working on RedM FiveM VRChat And My Own Game Run Fast:</h3>
+<h3 align="left">I’m currently working on RedM FiveM VRChat And My Own Game Run Fast</h3>
 <p align="left">
 </p>
 
