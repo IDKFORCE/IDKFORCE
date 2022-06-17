@@ -11,7 +11,7 @@
 </p>
 <h3 align="left">Tools I Use:</h3>
 
-<h3 align="left">(Unity,UnrealEngine,Blender,VisualCode,CodeWalker,OpenIV,)</h3>
+<h3 align="left">(Unity,UnrealEngine,Blender,VisualCode,CodeWalker,OpenIV,zmodeler3,)</h3>
 
 
 <h3 align="left">Im A Graphics Designer & Developer</h3>
