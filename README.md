@@ -28,4 +28,6 @@
 
 <a href="https://github.com/lowlighter/metrics"><img src="/github-metrics.svg" alt="Metrics" align="center" width="100%"></a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&duration=5500&color=FFFFFF&lines=Soon+To+BE+Open+FS-CLUB+IN+VRCHAT)](https://git.io/typing-svg)
+
 ![VRCHAT](https://cdn.discordapp.com/attachments/946099503960842250/974024655167971360/VRChat_2022-05-11_12-05-48.641.png)
