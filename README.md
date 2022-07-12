@@ -1,8 +1,6 @@
 ### Hi There ✋🏼, My Name Is IDK_FORCE
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=WELCOME+TO+MY+BIO)](https://git.io/typing-svg)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ![ForceScript Run Fast Main Developer](https://cdn.discordapp.com/attachments/784243374269661195/987344348360364052/banner.png)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,6 +13,7 @@
 
 <h3 align="left">(Unity,UnrealEngine,Blender,VisualCode,CodeWalker,OpenIV,zmodeler3,)</h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h3 align="left">Im A Graphics Designer & Developer</h3>
 <p align="left">
