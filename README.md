@@ -5,9 +5,7 @@
 
 ```Profile Viewers```
 
-![Profile views](https://gpvc.arturio.dev/IDKFORCE)
-<a href="https://github.com/IDKFORCE">
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IDKFORCE" alt="IDKFORCE" /> </p>
 
 ```My Discord```
  <div align="left">
