@@ -100,4 +100,32 @@
 - Tools
 ```Unity``` ```UnrealEngine``` ```Blender``` ```VisualStudioCode``` ```CodeWalker``` ```OpenIV``` ```zmodeler``` ```HeidiSQL``` ```xammp```
 	 
-<a href="https://github.com/lowlighter/metrics"><img src="/github-metrics.svg" alt="Metrics" align="center" width="100%"></a>
+ ## Cheaters Leakers Or Resellers
+   
+<details>
+<summary>VVarden</summary>
+<h1 >VVarden <img src="https://user-images.githubusercontent.com/54733885/183677344-6e1ee0e6-7b70-4cf5-92e6-646b829dd4b0.png" height=30; width=30;/></h1>
+<b>Description:</b> A Discord Bot<br>
+<b>Credits:</b> BerkieB and mk3ext<br>
+<b>Discord Bot Invite:</b> <a href="https://discord.com/api/oauth2/authorize?client_id=874059310869655662&permissions=8&scope=applications.commands%20bot">Click Me!
+
+<b>Join They Discord:</b> <a href="https://discord.gg/warden">Join Me!
+</a><br><br>
+<table style="background-color: #ccc;">
+<tr>
+<td>
+<img src="https://cdn.discordapp.com/attachments/688435303240957992/1017002282258268170/unknown.png"/>
+</td>
+<td>
+<img src="https://cdn.discordapp.com/attachments/688435303240957992/1017009708848128040/unknown.png"/>
+</td>
+</tr>
+</table>
+</details>
+
+	
+<a href="https://github.com/lowlighter/metrics"><img src="/github-metrics.svg" alt="Metrics" align="center" width="80%"></a>
+	 
+
+	 
+	 
