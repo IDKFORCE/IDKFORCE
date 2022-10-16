@@ -41,7 +41,7 @@
 ## Im A Graphics Designer & Developer
 
 ![screanshot](https://user-images.githubusercontent.com/71199348/187015600-06e3536e-260f-4b3c-bbd9-7a6de5a37f9a.png)
-![future](https://im.ezgif.com/tmp/ezgif-1-0946df6eda.webp)
+![future](https://cdn.discordapp.com/attachments/688435303240957992/1031302878498918420/Snapchat-706234991.jpg)
 
 <p align="left">
  <a href=https://github.com/IDKFORCE><img width="700" src=https://github-readme-stats.vercel.app/api?username=IDKFORCE&count_private=true&show_icons=true&title_color=002b68text_color=ffffff&icon_color=002b68&hide_border=true&bg_color=000000&layout=compact&hide_title=false&hide_rank=false><a>
