@@ -52,12 +52,9 @@
 - FS-Zombies 
 ![card](https://user-images.githubusercontent.com/71199348/187018303-31a0ea1d-4c86-451f-9a45-4896f11dd422.png)
 	 
-## Organizations
-```LaVouteRoleplay```	 
+## Organizations 
 ```FSL-FrameWork```
  ![link](https://avatars.githubusercontent.com/u/107208301?s=400&u=90525e5fb756821996bf977d5d1785aba3b056b8&v=4)
-	![link](https://avatars.githubusercontent.com/u/109404452?s=400&u=e900ffd9dc79764efceeebbd43b35b1d13d8aea4&v=4)
-
 	 
  ### Recent Followers
 	 
