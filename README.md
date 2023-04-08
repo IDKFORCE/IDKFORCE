@@ -24,11 +24,8 @@
 ```Discord Status```
 
 <a href="https://discord.com/users/494351466614489108">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/494351466614489108.png" />
+<img height="100px" src="https://discord.c99.nl/widget/theme-4/494351466614489108.png" />
 </a>
-
-
-
 
 ## I’m Currently Working On
 
