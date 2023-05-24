@@ -40,53 +40,33 @@
 ![screanshot](https://user-images.githubusercontent.com/71199348/187015600-06e3536e-260f-4b3c-bbd9-7a6de5a37f9a.png)
 ![future](https://cdn.discordapp.com/attachments/688435303240957992/1031302878498918420/Snapchat-706234991.jpg)
 
-<p align="left">
- <a href=https://github.com/IDKFORCE><img width="700" src=https://github-readme-stats.vercel.app/api?username=IDKFORCE&count_private=true&show_icons=true&title_color=002b68text_color=ffffff&icon_color=002b68&hide_border=true&bg_color=000000&layout=compact&hide_title=false&hide_rank=false><a>
+[![summery](https://github-readme-stats.vercel.app/api?username=IDKFORCE&show_icons=true&theme=github_dark&count_private=true&hide_border=true)](https://github.com/IDKFORCE/github-readme-stats)  
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)	 
-	 
-## Coming Soon
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IDKFORCE&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IDKFORCE&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+
+<hr>
+<br>
+
+## Just A Snake Eating My Contributions 🐍
+<p align='center'>
+<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+<hr>
+<br> 
+
 - FS-Zombies 
 ![card](https://user-images.githubusercontent.com/71199348/187018303-31a0ea1d-4c86-451f-9a45-4896f11dd422.png)
 	 
-## Organizations 
-```FSL-FrameWork```
- ![link](https://avatars.githubusercontent.com/u/107208301?s=400&u=90525e5fb756821996bf977d5d1785aba3b056b8&v=4)
-	 
- ### Recent Followers
-	 
-<table>
-  <tr>
-    <td align="center">
-      <a href="">
-        <img src="" width="75px;" alt=""/>
-      </a>
-      <br/>
-    </td>
-     <td align="center">
-      <a href="">
-        <img src="" width="75px;" alt=""/>
-      </a>
-    </td>
-     <td align="center">
-      <a href="">
-        <img src="" width="75px;" alt=""/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="" width="75px;" alt=""/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="" width="75px;" alt=""/>
-      </a>
-    </td>
-  </tr>
-</table>
-	
-
 ## Most Used Languages / Tools
 -	Languages
 ```C#``` ```Lua``` ```Vue``` ```Python``` ```C++``` ```Html``` ```Ruby``` ```Css``` ```JavaScript``` ```TypeScript```
@@ -116,10 +96,3 @@
 </tr>
 </table>
 </details>
-
-	
-<a href="https://github.com/lowlighter/metrics"><img src="/github-metrics.svg" alt="Metrics" align="center" width="80%"></a>
-	 
-
-	 
-	 
