@@ -14,7 +14,7 @@
   </a></p>
 </div>
 
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
  
 ```What Im Listening Right Now```
 
