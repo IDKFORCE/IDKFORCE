@@ -9,7 +9,7 @@
 
 ```My Discord```
  <div align="left">
-  <p><a href="https://discord.gg/6kJ5ubDEWE">
+  <p><a href="https://discord.gg/UFng7DWnWP">
       <img src="https://img.shields.io/discord/869166393470357535?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
   </a></p>
 </div>
