@@ -4,7 +4,7 @@
 
 ## 🩸 About Me  
 
-### 👻 Hello! I'm **Nikko**, but online, I'm better known as **`IDK_FORCE`**  
+### 👻 Hello! I'm **`IDK_FORCE`**
 - 👻 **Lover of horror, gaming, & creating Unique Resources**.  
 - 👻 A **Ghostface fan**, blending creepy aesthetics into **modern/old school programming**.  
 - 👻 Always experimenting with **dark themes** & **cutting-edge technologies**.
