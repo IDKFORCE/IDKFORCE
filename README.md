@@ -19,8 +19,8 @@ https://github.com/IDKFORCE/Help
   - **FiveM** **GTAV**
   - **CyberPunk 2077** Modding  
   - **Discord** Development 
-- ** CyberSecurity Projects**  
-- ** Tools for game & mod creation**
+  -  CyberSecurity Projects  
+  -  Tools for game & mod creation
 
 ---
 
